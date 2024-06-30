@@ -42,6 +42,7 @@ Create a classification model, pick a parameter and tune it and select a value t
 <img width="803" alt="Screenshot 2024-06-30 at 14 28 24" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/8d62859e-24d0-4bcb-82ce-be4aaa3affa7">
 
 Prints confusion matrix
+
 <img width="631" alt="Screenshot 2024-06-30 at 14 21 08" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/89f2450b-8ef1-4908-82f7-9d596519a1fa">
 
 Evaluation of model 

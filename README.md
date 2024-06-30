@@ -44,6 +44,7 @@ Create a classification model, pick a parameter and tune it and select a value t
 Prints confusion matrix
 <img width="1165" alt="Screenshot 2024-06-30 at 14 19 18" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/e8cfb6e0-1bf8-4519-9ce1-e99c34f24169">
 
-Evaluation of model
+Evaluation of model 
+
 <img width="847" alt="Screenshot 2024-06-30 at 14 22 25" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/cabdef8d-70ab-46df-b789-07753769263c">
 

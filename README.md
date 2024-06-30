@@ -34,7 +34,7 @@ First import the libraries
 <img width="1165" alt="Screenshot 2024-06-30 at 14 19 18" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/0487af7f-1104-452d-b0a0-b0920fe2d4b7">
 
 Assign the dataset to x and y, split into train and test sets and print the shape
-<img width="1165" alt="Screenshot 2024-06-30 at 14 19 18" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/eeb1bd36-ebf8-4fe7-90ed-179a90e82c49">
+<img width="1316" alt="Screenshot 2024-06-30 at 14 25 17" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/160b91a6-e3ea-44d5-9371-8fa347397ab9">
 
 Create a classification model, pick a parameter and tune it and select a value to use for the testing on the test data
 <img width="1369" alt="Screenshot 2024-06-30 at 14 27 30" src="https://github.com/Ahmed01999/codingTasks/assets/129473521/8d97ef13-d849-429f-ad4b-dc78d40802c6">
